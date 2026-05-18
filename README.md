@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-  Hola, Soy Samy
+  Samy-Garcia
 </h3>
 
 <div align="center" width="100">
