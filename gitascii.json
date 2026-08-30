@@ -1,4 +1,5 @@
 {
+  "username": "Samy-Garcia",
   "widgets": [
     {
       "widgetId": "header",
@@ -31681,7 +31682,10 @@
         "width": 504,
         "height": 280
       },
-      "config": {},
+      "config": {
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
+      },
       "locked": false,
       "visible": true,
       "zIndex": 3,
@@ -31698,7 +31702,10 @@
         "width": 536,
         "height": 160
       },
-      "config": {},
+      "config": {
+        "animationType": "flip-x",
+        "animationPreviewKey": 2
+      },
       "locked": false,
       "visible": true,
       "zIndex": 4,
@@ -31739,12 +31746,14 @@
           "html",
           "css",
           "py",
-          "rust",
-          "go",
-          "cpp"
+          "cs",
+          "java",
+          "reactnative"
         ],
         "theme": "dark",
-        "perLine": 4
+        "perLine": 4,
+        "animationType": "slide-left",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
@@ -31776,7 +31785,10 @@
           " ▀████▄  ████████ ██ ▀▀ ██    ██    ██████ ██  ████ ████████ ███████▀ ██          ██    ████████",
           "      ██ ██    ██ ██    ██    ██           ██    ██ ██    ██ ██  ▀██▄ ██    ▄▄    ██    ██    ██",
           "██████▀  ██    ██ ██    ██    ██            ▀████▀  ██    ██ ██    ██  ▀████▀  ████████ ██    ██"
-        ]
+        ],
+        "animationType": "flip-y",
+        "animationPreviewKey": 7,
+        "animationDuration": 600
       },
       "locked": false,
       "visible": true,
@@ -31841,7 +31853,7 @@
       "name": "Social-media Widget",
       "position": {
         "x": 0,
-        "y": 1128
+        "y": 1124
       },
       "size": {
         "width": 800,
@@ -31858,8 +31870,10 @@
           "github": "https://github.com/Samy-Garcia",
           "instagram": "https://www.instagram.com/samy_garcia__/",
           "website": "https://www.facebook.com/XSamyGarciaX",
-          "email": "mailto:20240528@ricaldone.edu.sv"
-        }
+          "email": "mailto:fsamuelgarciac@gmail.com"
+        },
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
@@ -31877,5 +31891,6 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "cyberpunk"
+  "templateId": "cyberpunk",
+  "profileSlug": "default"
 }
